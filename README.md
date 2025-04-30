@@ -1,0 +1,1 @@
+# Named-route-yap-s-kullanarak-sayfa-ge-i-i
